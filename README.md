@@ -42,20 +42,24 @@
 
 <div align="center">
 
-**A simple progress view of my current learning journey — bars instead of circular level graphics.**
+**A circular view of my current learning journey.**
+
+<table>
+  <tr>
+    <td align="center"><img src="./assets/skill-progress/c.svg" width="140" alt="C: 90%" /></td>
+    <td align="center"><img src="./assets/skill-progress/html5.svg" width="140" alt="HTML5: 90%" /></td>
+    <td align="center"><img src="./assets/skill-progress/python.svg" width="140" alt="Python: 80%" /></td>
+    <td align="center"><img src="./assets/skill-progress/css3.svg" width="140" alt="CSS3: 80%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/skill-progress/git-github.svg" width="140" alt="Git and GitHub: 70%" /></td>
+    <td align="center"><img src="./assets/skill-progress/javascript.svg" width="140" alt="JavaScript: 60%" /></td>
+    <td align="center"><img src="./assets/skill-progress/cpp.svg" width="140" alt="C plus plus: 60%" /></td>
+    <td align="center"><img src="./assets/skill-progress/dsa.svg" width="140" alt="Data Structures and Algorithms: 50%" /></td>
+  </tr>
+</table>
 
 </div>
-
-| Skill | Progress | Current focus |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> | `█████████░` **90%** | Programming fundamentals &amp; problem solving |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> | `█████████░` **90%** | Structured, accessible web pages |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> | `████████░░` **80%** | Building practical programs |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> | `████████░░` **80%** | Responsive layouts &amp; styling |
-| <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git and GitHub" /> | `███████░░░` **70%** | Version control &amp; project workflow |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> | `██████░░░░` **60%** | Interactive web experiences |
-| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C plus plus" /> | `██████░░░░` **60%** | Extending programming knowledge |
-| <img src="https://img.shields.io/badge/DSA-6A5ACD?style=flat-square&logo=leetcode&logoColor=white" alt="Data Structures and Algorithms" /> | `█████░░░░░` **50%** | Data structures &amp; algorithms |
 
 > 📌 These percentages reflect my current learning stage and will evolve as I build more projects.
 
