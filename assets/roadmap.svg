@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+  <title id="title">Priyajit's learning roadmap</title>
+  <desc id="desc">A four-stage roadmap from foundations through web building and problem solving to full-stack development.</desc>
+  <rect width="1000" height="330" rx="24" fill="#0d1117"/>
+  <text x="500" y="47" text-anchor="middle" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="25" font-weight="700">MY LEARNING ROADMAP</text>
+  <text x="500" y="72" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Build solid foundations. Ship projects. Keep growing.</text>
+  <path d="M230 174 H270 M480 174 H520 M730 174 H770" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M263 166 L271 174 L263 182 M513 166 L521 174 L513 182 M763 166 L771 174 L763 182" fill="none" stroke="#8b949e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+    <rect x="30" y="105" width="200" height="140" rx="18" fill="#102a43" stroke="#00bfff" stroke-width="2"/>
+    <circle cx="61" cy="136" r="17" fill="#00bfff"/><text x="61" y="142" text-anchor="middle" fill="#0d1117" font-family="Arial, sans-serif" font-size="13" font-weight="700">01</text>
+    <text x="91" y="141" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="17" font-weight="700">FOUNDATIONS</text>
+    <text x="50" y="178" fill="#b9dff4" font-family="Arial, sans-serif" font-size="14">C · Python · Git &amp; GitHub</text>
+    <text x="50" y="207" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">Strengthen core concepts</text>
+  </g>
+  <g>
+    <rect x="280" y="105" width="200" height="140" rx="18" fill="#2a1d45" stroke="#a371f7" stroke-width="2"/>
+    <circle cx="311" cy="136" r="17" fill="#a371f7"/><text x="311" y="142" text-anchor="middle" fill="#0d1117" font-family="Arial, sans-serif" font-size="13" font-weight="700">02</text>
+    <text x="341" y="141" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="17" font-weight="700">WEB BUILDING</text>
+    <text x="300" y="178" fill="#dec9ff" font-family="Arial, sans-serif" font-size="14">HTML · CSS · JavaScript</text>
+    <text x="300" y="207" fill="#b1a4c9" font-family="Arial, sans-serif" font-size="13">Create a standout portfolio</text>
+  </g>
+  <g>
+    <rect x="530" y="105" width="200" height="140" rx="18" fill="#3b2415" stroke="#f0883e" stroke-width="2"/>
+    <circle cx="561" cy="136" r="17" fill="#f0883e"/><text x="561" y="142" text-anchor="middle" fill="#0d1117" font-family="Arial, sans-serif" font-size="13" font-weight="700">03</text>
+    <text x="591" y="141" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="17" font-weight="700">PROBLEM SOLVING</text>
+    <text x="550" y="178" fill="#ffd1a8" font-family="Arial, sans-serif" font-size="14">Data Structures · DSA</text>
+    <text x="550" y="207" fill="#d6af8e" font-family="Arial, sans-serif" font-size="13">Practice through projects</text>
+  </g>
+  <g>
+    <rect x="780" y="105" width="190" height="140" rx="18" fill="#123329" stroke="#3fb950" stroke-width="2"/>
+    <circle cx="811" cy="136" r="17" fill="#3fb950"/><text x="811" y="142" text-anchor="middle" fill="#0d1117" font-family="Arial, sans-serif" font-size="13" font-weight="700">04</text>
+    <text x="841" y="141" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="16" font-weight="700">FULL STACK</text>
+    <text x="800" y="178" fill="#b8f3c1" font-family="Arial, sans-serif" font-size="14">Connect the pieces</text>
+    <text x="800" y="207" fill="#9fc9a5" font-family="Arial, sans-serif" font-size="13">Build end-to-end work</text>
+  </g>
+  <text x="500" y="291" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">Learning is a journey — each project moves the roadmap forward.</text>
+</svg>
