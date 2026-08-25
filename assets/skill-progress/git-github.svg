@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="154" viewBox="0 0 154 154" role="img" aria-labelledby="title desc">
+  <title id="title">Git &amp; GitHub: 70%</title>
+  <desc id="desc">Circular progress indicator showing Git &amp; GitHub at 70 percent.</desc>
+  <circle cx="77" cy="77" r="62" fill="#0d1117"/>
+  <circle cx="77" cy="77" r="46" fill="none" stroke="#30363d" stroke-width="10"/>
+  <circle cx="77" cy="77" r="46" fill="none" stroke="#F05032" stroke-width="10" stroke-linecap="round" stroke-dasharray="289.03" stroke-dashoffset="86.71" transform="rotate(-90 77 77)"/>
+  <text x="77" y="73" text-anchor="middle" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="25" font-weight="700">70%</text>
+  <text x="77" y="96" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="12">Git &amp; GitHub</text>
+</svg>
