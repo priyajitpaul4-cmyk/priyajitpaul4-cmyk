@@ -1,15 +1,53 @@
 <!-- Profile README for priyajitpaul4-cmyk -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Satyajit+Shit+%F0%9F%91%8B;Diploma+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+in+Making+%F0%9F%9A%80;Problem+Solver+%7C+Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Priyajit+Paul+%F0%9F%91%8B;Diploma+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+in+Making+%F0%9F%9A%80;Problem+Solver+%7C+Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Satyajit%20Shit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyajit%20Paul&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </p>
 📌 These percentages reflect my current learning stage and will evolve as I build more projects.
 
 ---
+---
 
+## 🧰 Tech Stack
+
+<div align="center">
+
+| Programming | Web Development | Tools &amp; Technologies |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=c,py,cpp" alt="C, Python, C++" /> | <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" /> | <img src="https://skillicons.dev/icons?i=git,github,nodejs,mysql,sqlite" alt="Git, GitHub, Node.js, MySQL, SQLite" /> |
+| C · Python · C++ | HTML5 · CSS3 · JavaScript | Git · GitHub · Node.js · MySQL · SQLite |
+
+</div>
+
+---
+
+## 📊 Skill Progress
+
+<div align="center">
+
+**A circular view of my current learning journey.**
+
+<table>
+  <tr>
+    <td align="center"><img src="./assets/skill-progress/c.svg" width="140" alt="C: 90%" /></td>
+    <td align="center"><img src="./assets/skill-progress/html5.svg" width="140" alt="HTML5: 90%" /></td>
+    <td align="center"><img src="./assets/skill-progress/python.svg" width="140" alt="Python: 80%" /></td>
+    <td align="center"><img src="./assets/skill-progress/css3.svg" width="140" alt="CSS3: 80%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/skill-progress/git-github.svg" width="140" alt="Git and GitHub: 70%" /></td>
+    <td align="center"><img src="./assets/skill-progress/javascript.svg" width="140" alt="JavaScript: 60%" /></td>
+    <td align="center"><img src="./assets/skill-progress/cpp.svg" width="140" alt="C plus plus: 60%" /></td>
+    <td align="center"><img src="./assets/skill-progress/dsa.svg" width="140" alt="Data Structures and Algorithms: 50%" /></td>
+  </tr>
+</table>
+
+</div>
+
+> 📌 These percentages reflect my current learning stage and will evolve as I build more projects.
 ## 🗺️ Roadmap
 
 <div align="center">
