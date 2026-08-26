@@ -1,17 +1,12 @@
 <!-- Profile README for priyajitpaul4-cmyk -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00BFFF,100:A371F7&height=120&section=header&text=Priyajit%20Paul&fontSize=55&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=Computer%20Science%20%26%20Technology%20Student&descSize=18&descAlignY=80&descColor=E6E6E6" alt="Priyajit Paul" width="100%" />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=850&lines=C+%26+Python+Programmer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Animated tagline about Priyajit" />
-
-  <h3>💻 C &amp; Python Programmer &nbsp;•&nbsp; 🌐 Web Development Enthusiast &nbsp;•&nbsp; 🚀 Aspiring Full-Stack Developer</h3>
-
-  <a href="https://github.com/priyajitpaul4-cmyk?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=priyajitpaul4-cmyk&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/priyajitpaul4-cmyk?label=FOLLOWERS&style=for-the-badge&color=00BFFF&logo=github" alt="GitHub followers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Satyajit+Shit+%F0%9F%91%8B;Diploma+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+in+Making+%F0%9F%9A%80;Problem+Solver+%7C+Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
-> 📌 These percentages reflect my current learning stage and will evolve as I build more projects.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Satyajit%20Shit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</p>
+📌 These percentages reflect my current learning stage and will evolve as I build more projects.
 
 ---
 
