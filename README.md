@@ -126,7 +126,217 @@
 </div>
 
 ---
+<!-- Professional Contact & Fun Fact Section -->
+<div class="contact-section">
+  <div class="contact-left">
+    <span class="label"><i class="fas fa-address-card"></i> connect</span>
+    
+    <a href="mailto:priyajitpaul4@gmail.com" class="contact-item">
+      <i class="fas fa-envelope"></i> priyajitpaul4
+    </a>
+    <a href="https://github.com/priyajitpaul4-cmyk" target="_blank" class="contact-item">
+      <i class="fab fa-github"></i> priyajitpaul4-cmyk
+    </a>
+    <a href="https://linkedin.com/in/priyajit-paul-217129417" target="_blank" class="contact-item">
+      <i class="fab fa-linkedin-in"></i> priyajit-paul
+    </a>
+    <a href="https://instagram.com/pauls_art_21" target="_blank" class="contact-item">
+      <i class="fab fa-instagram"></i> pauls_art_21
+    </a>
+    <a href="https://facebook.com/pauls_art_21" target="_blank" class="contact-item">
+      <i class="fab fa-facebook-f"></i> pauls_art_21
+    </a>
+  </div>
 
+  <div class="contact-right">
+    <div class="fun-fact-badge">
+      <i class="fas fa-lightbulb"></i> 
+      <span id="funFactDisplay" class="fun-fact-text">⌨️  first code: "Hello, World!"</span>
+      <button class="refresh-fact" id="newFactBtn" title="new fun fact">
+        <i class="fas fa-arrows-rotate"></i>
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- CSS Styles -->
+<style>
+  /* --- Contact Section Styles --- */
+  .contact-section {
+    background: #f1f5f9;
+    border-radius: 2rem;
+    padding: 1.8rem 2rem;
+    margin-bottom: 2.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #e2e8f0;
+    box-shadow: inset 0 1px 3px rgba(255,255,255,0.8);
+  }
+
+  .contact-left {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 1.2rem;
+  }
+
+  .contact-left .label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0.02em;
+    color: #1e293b;
+    background: #d9e2ef;
+    padding: 0.25rem 0.9rem;
+    border-radius: 40px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .contact-left .label i {
+    font-size: 0.85rem;
+    color: #2563eb;
+  }
+
+  .contact-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.9rem;
+    background: white;
+    padding: 0.25rem 1rem 0.25rem 0.9rem;
+    border-radius: 40px;
+    border: 1px solid #d1d9e6;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+    transition: 0.15s;
+    text-decoration: none;
+    color: #0b1a2e;
+  }
+
+  .contact-item i {
+    width: 1.4rem;
+    text-align: center;
+    color: #2563eb;
+    font-size: 1rem;
+  }
+
+  .contact-item:hover {
+    background: #ffffff;
+    border-color: #94a3b8;
+    box-shadow: 0 4px 8px -4px rgba(0,0,0,0.05);
+    transform: translateY(-1px);
+  }
+
+  .contact-right {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    flex-wrap: wrap;
+  }
+
+  .fun-fact-badge {
+    background: #1e293b;
+    color: #f1f5f9;
+    padding: 0.35rem 1.2rem 0.35rem 1rem;
+    border-radius: 40px;
+    font-size: 0.85rem;
+    font-weight: 450;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid #334155;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+  }
+
+  .fun-fact-badge i {
+    color: #fbbf24;
+    font-size: 0.9rem;
+  }
+
+  .fun-fact-text {
+    background: #0f172a;
+    padding: 0.2rem 0.8rem;
+    border-radius: 30px;
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    color: #e2e8f0;
+    border: 1px solid #2d3a52;
+  }
+
+  .refresh-fact {
+    background: transparent;
+    border: none;
+    color: #94a3b8;
+    cursor: pointer;
+    font-size: 0.9rem;
+    padding: 0 0.2rem;
+    transition: 0.1s;
+  }
+
+  .refresh-fact:hover {
+    color: #fbbf24;
+    transform: rotate(30deg);
+  }
+
+  @media (max-width: 640px) {
+    .contact-section {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 1rem;
+    }
+    .contact-left {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>
+
+<!-- JavaScript for Random Fun Fact -->
+<script>
+  (function() {
+    const funFacts = [
+      "⌨️  first code: \"Hello, World!\"",
+      "🐍  Python named after Monty Python, not the snake.",
+      "🌐  First website is still online: info.cern.ch",
+      "💻  Over 700 programming languages exist.",
+      "🖥️  The first computer bug was a real moth.",
+      "🧠  DSA helps you think in 10 dimensions.",
+      "☕  JavaScript and Java are entirely different.",
+      "📦  Git was created in 2 weeks by Linus Torvalds.",
+      "🎨  CSS stands for Cascading Style Sheets.",
+      "⚡  APIs power most of the modern web.",
+      "🔐  \"Password\" is still one of the worst passwords.",
+      "🌍  The first domain ever registered was symbolics.com.",
+      "📟  The first hard drive weighed over a ton.",
+      "🧩  HTML5 was finalized in 2014.",
+      "🧑‍💻  The average dev writes ~10,000 lines of code per year."
+    ];
+
+    const factDisplay = document.getElementById('funFactDisplay');
+    const refreshBtn = document.getElementById('newFactBtn');
+    let lastIndex = -1;
+
+    function getRandomFact() {
+      let newIndex;
+      do {
+        newIndex = Math.floor(Math.random() * funFacts.length);
+      } while (newIndex === lastIndex && funFacts.length > 1);
+      lastIndex = newIndex;
+      return funFacts[newIndex];
+    }
+
+    function updateFact() {
+      factDisplay.textContent = getRandomFact();
+    }
+
+    // Set initial random fact
+    factDisplay.textContent = getRandomFact();
+    refreshBtn.addEventListener('click', updateFact);
+  })();
+</script>
 <div align="center">
 
   <sub>Thanks for visiting — feel free to explore my projects or connect with me on GitHub. ✨</sub>
