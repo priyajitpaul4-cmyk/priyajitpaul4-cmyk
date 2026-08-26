@@ -51,14 +51,14 @@
 ## 🗺️ Roadmap
 
 <div align="center">
-  <img src="./assets/roadmap.svg" width="100%" alt="Four-stage roadmap: Foundations, Web Building, Solve problem,and Full Stack" />
+  <img src="./assets/roadmap.svg" width="100%" alt="Four-stage roadmap: Foundations, Web Building, Problem Solving, and Full Stack" />
 </div>
 
 | ✨ Milestone | 🎯 Next move |
 | :-- | :-- |
 | <img src="https://img.shields.io/badge/01-FOUNDATIONS-00BFFF?style=for-the-badge" alt="Stage 01 Foundations" /> | Strengthen C and Python fundamentals while using Git &amp; GitHub consistently. |
 | <img src="https://img.shields.io/badge/02-WEB_BUILDING-A371F7?style=for-the-badge" alt="Stage 02 Web Building" /> | Complete a responsive portfolio and sharpen HTML, CSS, and JavaScript through hands-on work. |
-| <img src="https://img.shields.io/badge/03-SOLVE_PROBLEM-F0883E?style=for-the-badge" alt="Stage 03 Solve problem" /> | Practice DSA alongside projects to develop stronger logical thinking. |
+| <img src="https://img.shields.io/badge/03-PROBLEM_SOLVING-F0883E?style=for-the-badge" alt="Stage 03 Problem solving" /> | Practice DSA alongside projects to develop stronger logical thinking. |
 | <img src="https://img.shields.io/badge/04-FULL_STACK-3FB950?style=for-the-badge" alt="Stage 04 Full Stack" /> | Bring front-end and back-end learning together through end-to-end projects. |
 
 
