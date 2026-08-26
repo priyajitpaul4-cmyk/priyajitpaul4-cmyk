@@ -137,7 +137,13 @@
 </div>
 
 ---
+---
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyajitpaul4-cmyk&theme=react-dark&hide_border=true&area=true&color=00BFFF&line=00BFFF&point=A371F7" alt="GitHub activity graph showing commits over recent weeks" width="100%" />
+</div>
 ## 💡 Fun Fact
 
 <div align="center">
@@ -145,10 +151,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <sub>Thanks for visiting — feel free to explore my projects or connect with me on GitHub. ✨</sub>
-</div>
 
 <div align="center">
 
