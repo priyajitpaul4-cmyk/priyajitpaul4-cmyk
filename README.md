@@ -1,11 +1,9 @@
 <!-- Profile README for priyajitpaul4-cmyk -->
 
 <div align="center">
-  <h1>
-    <img src="https://img.shields.io/badge/👋_Hi_there,_I'm-Priyajit_Paul-00BFFF?style=for-the-badge&labelColor=181717" alt="Priyajit Paul" />
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00BFFF,100:A371F7&height=120&section=header&text=Priyajit%20Paul&fontSize=55&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn&desc=Computer%20Science%20%26%20Technology%20Student&descSize=18&descAlignY=80&descColor=E6E6E6" alt="Priyajit Paul" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Technology+Student;C+%26+Python+Programmer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Animated tagline about Priyajit" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=850&lines=C+%26+Python+Programmer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Animated tagline about Priyajit" />
 
   <h3>💻 C &amp; Python Programmer &nbsp;•&nbsp; 🌐 Web Development Enthusiast &nbsp;•&nbsp; 🚀 Aspiring Full-Stack Developer</h3>
 
@@ -13,58 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=priyajitpaul4-cmyk&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/priyajitpaul4-cmyk?label=FOLLOWERS&style=for-the-badge&color=00BFFF&logo=github" alt="GitHub followers" />
 </div>
-
----
-
-## 👋 About Me
-
-> I am a **Computer Science &amp; Technology student** who enjoys turning ideas into practical projects and learning by building.
-
-- 🔭 **Currently building:** my personal portfolio website
-- 🌱 **Learning path:** C, Python, HTML, CSS, JavaScript, Git &amp; GitHub, and DSA
-- 💻 **What I enjoy:** programming fundamentals, problem-solving, and web development
-- 🤝 **Open to:** beginner-friendly C, Python, and web development collaborations
-- 💬 **Ask me about:** C, Python, web development, and GitHub projects
-- ⚡ **My approach:** learn, build, reflect, repeat
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-| Programming | Web Development | Tools &amp; Technologies |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=c,py,cpp" alt="C, Python, C++" /> | <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" /> | <img src="https://skillicons.dev/icons?i=git,github,nodejs,mysql,sqlite" alt="Git, GitHub, Node.js, MySQL, SQLite" /> |
-| C · Python · C++ | HTML5 · CSS3 · JavaScript | Git · GitHub · Node.js · MySQL · SQLite |
-
-</div>
-
----
-
-## 📊 Skill Progress
-
-<div align="center">
-
-**A circular view of my current learning journey.**
-
-<table>
-  <tr>
-    <td align="center"><img src="./assets/skill-progress/c.svg" width="140" alt="C: 90%" /></td>
-    <td align="center"><img src="./assets/skill-progress/html5.svg" width="140" alt="HTML5: 90%" /></td>
-    <td align="center"><img src="./assets/skill-progress/python.svg" width="140" alt="Python: 80%" /></td>
-    <td align="center"><img src="./assets/skill-progress/css3.svg" width="140" alt="CSS3: 80%" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/skill-progress/git-github.svg" width="140" alt="Git and GitHub: 70%" /></td>
-    <td align="center"><img src="./assets/skill-progress/javascript.svg" width="140" alt="JavaScript: 60%" /></td>
-    <td align="center"><img src="./assets/skill-progress/cpp.svg" width="140" alt="C plus plus: 60%" /></td>
-    <td align="center"><img src="./assets/skill-progress/dsa.svg" width="140" alt="Data Structures and Algorithms: 50%" /></td>
-  </tr>
-</table>
-
-</div>
-
 > 📌 These percentages reflect my current learning stage and will evolve as I build more projects.
 
 ---
@@ -141,16 +87,13 @@
 </div>
 
 ---
+---
 
 ## 💡 Fun Fact
 
 <div align="center">
-
-> 🐛 **Did you know?** The first computer bug was an actual moth found trapped in a relay back in 1947.
-
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F0883E,50:A371F7,100:00BFFF&height=100&section=header&text=🐛%20Did%20You%20Know%3F&fontSize=26&fontColor=FFFFFF&fontAlignY=35&desc=The%20first%20computer%20bug%20was%20an%20actual%20moth%20found%20in%201947!&descSize=15&descAlignY=65&descColor=FFFFFF" alt="Fun Fact: The first computer bug was an actual moth found in 1947" width="90%" />
 </div>
-
 <div align="center">
-
   <sub>Thanks for visiting — feel free to explore my projects or connect with me on GitHub. ✨</sub>
 </div>
