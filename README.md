@@ -1,7 +1,11 @@
 <!-- Profile README for priyajitpaul4-cmyk -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I%27m+Priyajit+Paul+%F0%9F%91%8B;Computer+Science+%26+Technology+Student;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Animated introduction: Hi there, I'm Priyajit Paul" />
+  <h1>
+    <img src="https://img.shields.io/badge/👋_Hi_there,_I'm-Priyajit_Paul-00BFFF?style=for-the-badge&labelColor=181717" alt="Priyajit Paul" />
+  </h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Technology+Student;C+%26+Python+Programmer+%F0%9F%92%BB;Web+Development+Enthusiast+%F0%9F%8C%90;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Animated tagline about Priyajit" />
 
   <h3>💻 C &amp; Python Programmer &nbsp;•&nbsp; 🌐 Web Development Enthusiast &nbsp;•&nbsp; 🚀 Aspiring Full-Stack Developer</h3>
 
@@ -137,20 +141,14 @@
 </div>
 
 ---
----
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyajitpaul4-cmyk&theme=react-dark&hide_border=true&area=true&color=00BFFF&line=00BFFF&point=A371F7" alt="GitHub activity graph showing commits over recent weeks" width="100%" />
-</div>
 ## 💡 Fun Fact
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=A371F7&center=true&vCenter=true&width=700&lines=Fun+Fact%3A+The+first+computer+bug+was+an+actual+moth+found+in+1947!;Fun+Fact%3A+The+first+ever+GitHub+commit+was+made+by+Linus+Torvalds!;Fun+Fact%3A+Python+was+named+after+Monty+Python%2C+not+the+snake!;Fun+Fact%3A+The+%40+symbol+was+used+in+emails+for+the+first+time+in+1971!" alt="Rotating fun facts" />
-</div>
 
----
+> 🐛 **Did you know?** The first computer bug was an actual moth found trapped in a relay back in 1947.
+
+</div>
 
 <div align="center">
 
