@@ -47,7 +47,7 @@
 
 </div>
 
-> 📌 These percentages reflect my current learning stage and will evolve as I build more projects.
+📌 These percentages reflect my current learning stage and will evolve as I build more projects.
 ## 🗺️ Roadmap
 
 <div align="center">
@@ -61,7 +61,6 @@
 | <img src="https://img.shields.io/badge/03-SOLVE_PROBLEM-F0883E?style=for-the-badge" alt="Stage 03 Solve problem" /> | Practice DSA alongside projects to develop stronger logical thinking. |
 | <img src="https://img.shields.io/badge/04-FULL_STACK-3FB950?style=for-the-badge" alt="Stage 04 Full Stack" /> | Bring front-end and back-end learning together through end-to-end projects. |
 
----
 
 ## 🚀 Featured Projects
 
@@ -107,7 +106,6 @@
 <div align="center">
   <a href="https://github.com/priyajitpaul4-cmyk?tab=repositories"><img src="https://img.shields.io/badge/View_all_repositories-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 </div>
----
 
 ## 📬 Connect With Me
 
@@ -119,25 +117,24 @@
   <a href="https://www.facebook.com/pauls_art_21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </div>
 
----
----
 
 ## 💡 Fun Fact
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F0883E,50:A371F7,100:00BFFF&height=100&section=header&text=🐛%20Did%20You%20Know%3F&fontSize=26&fontColor=FFFFFF&fontAlignY=35&desc=The%20first%20computer%20bug%20was%20an%20actual%20moth%20found%20in%201947!&descSize=15&descAlignY=65&descColor=FFFFFF" alt="Fun Fact: The first computer bug was an actual moth found in 1947" width="90%" />
 </div>
----
+
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:A371F7,100:F0883E&height=150&section=footer" width="100%" alt="Decorative wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:A371F7,100:F0883E&height=130&section=header&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=28&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Thanks for visiting header wave" />
 
-  <br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let%27s+build+something+great+together+%E2%9C%A8;Feel+free+to+explore+or+connect+with+me+%F0%9F%91%8B" alt="Thanks for visiting animated message" />
+  <sub>Feel free to explore my projects or connect with me on GitHub. ✨</sub>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_like_my_work-181717?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Star my repositories" />
+  <a href="https://github.com/priyajitpaul4-cmyk?tab=repositories"><img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_like_my_work-181717?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Star my repositories" /></a>
 
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0883E,50:A371F7,100:00BFFF&height=100&section=footer" width="100%" alt="Decorative closing wave" />
 </div>
