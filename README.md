@@ -58,7 +58,7 @@
 | :-- | :-- |
 | <img src="https://img.shields.io/badge/01-FOUNDATIONS-00BFFF?style=for-the-badge" alt="Stage 01 Foundations" /> | Strengthen C and Python fundamentals while using Git &amp; GitHub consistently. |
 | <img src="https://img.shields.io/badge/02-WEB_BUILDING-A371F7?style=for-the-badge" alt="Stage 02 Web Building" /> | Complete a responsive portfolio and sharpen HTML, CSS, and JavaScript through hands-on work. |
-| <img src="https://img.shields.io/badge/03-SOLVE_PROBLEM-F0883E?style=for-the-badge" alt="Stage 03 Problem Solving" /> | Practice DSA alongside projects to develop stronger logical thinking. |
+| <img src="https://img.shields.io/badge/03-SOLVE_PROBLEM-F0883E?style=for-the-badge" alt="Stage 03 Solve problem" /> | Practice DSA alongside projects to develop stronger logical thinking. |
 | <img src="https://img.shields.io/badge/04-FULL_STACK-3FB950?style=for-the-badge" alt="Stage 04 Full Stack" /> | Bring front-end and back-end learning together through end-to-end projects. |
 
 ---
@@ -127,6 +127,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F0883E,50:A371F7,100:00BFFF&height=100&section=header&text=🐛%20Did%20You%20Know%3F&fontSize=26&fontColor=FFFFFF&fontAlignY=35&desc=The%20first%20computer%20bug%20was%20an%20actual%20moth%20found%20in%201947!&descSize=15&descAlignY=65&descColor=FFFFFF" alt="Fun Fact: The first computer bug was an actual moth found in 1947" width="90%" />
 </div>
+---
+
 <div align="center">
-  <sub>Thanks for visiting — feel free to explore my projects or connect with me on GitHub. ✨</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:A371F7,100:F0883E&height=150&section=footer" width="100%" alt="Decorative wave footer" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let%27s+build+something+great+together+%E2%9C%A8;Feel+free+to+explore+or+connect+with+me+%F0%9F%91%8B" alt="Thanks for visiting animated message" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_like_my_work-181717?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Star my repositories" />
+
 </div>
