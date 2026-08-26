@@ -124,7 +124,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F0883E,50:A371F7,100:00BFFF&height=100&section=header&text=🐛%20Did%20You%20Know%3F&fontSize=26&fontColor=FFFFFF&fontAlignY=35&desc=The%20first%20computer%20bug%20was%20an%20actual%20moth%20found%20in%201947!&descSize=15&descAlignY=65&descColor=FFFFFF" alt="Fun Fact: The first computer bug was an actual moth found in 1947" width="90%" />
 </div>
 
+---
 
+## 🙏 Thanks for Visiting
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:A371F7,100:F0883E&height=130&section=header&text=Thanks%20for%20Visiting%20My%20Profile!&fontSize=28&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="Thanks for visiting header wave" />
 
